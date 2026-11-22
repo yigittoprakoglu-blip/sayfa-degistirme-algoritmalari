@@ -1,0 +1,21 @@
+1-Gereksinimler
+bu program python programlama dili ile yazılmıştır
+
+bilgisyarda python 3.x sürümünün kurulu olması gerekir
+
+kodlar visual studio code veya spyder gibi yerlerde komut satırı üzerinden çalıştırabiliriz
+
+2-Çalıştırma
+python editörünü açın 
+
+kaynak kod dosyasını (isletimproje.py'yi) yükleyin
+
+sonra çalıştırın
+
+3-Kullanım 
+program çalıştıktan sonra ilk olarak karşımıza sizden istenen bir referans dizisi çıkıcak bunu aralarında boşluk olucak şekilde yazıyoruz.
+
+bu işlemden sonra çerçeve sayısını giriyoruz 
+
+çerçeve sayısını girdikten sonra program bizi bir menüye atıyor bu menüde sadece bir algoritmanın değerlerini görmek istiyorsak (1-4) arası menü değerlerini giriyoruz veya toplu bir karşılaştırma tablosu görmek istiyorsak 5 e tıklıyoruz en son işlemler bittikten sonra da çıkış yapmak için 0'a basıyoruz
+
